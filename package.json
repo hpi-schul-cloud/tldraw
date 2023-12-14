@@ -15,7 +15,7 @@
 		"@y-presence/react": "^2.0.1",
 		"browser-fs-access": "^0.35.0",
 		"eslint": "^8.45.0",
-		"node-sass": "^7.0.3",
+		"node-sass": "^9.0.0",
 		"loglevel": "^1.8.1",
 		"prettier": "^3.0.0",
 		"react": "^18.2.0",
